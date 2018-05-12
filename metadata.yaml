@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41557'
     url: http://www.gutenberg.org/2009/agents/41557
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42169#The-Pit-Town-Coronet-Volume-III--of-3-A-Family-Mystery.
 gutenberg_issued: '2013-02-23'
 gutenberg_type: Text
 identifiers:
